@@ -1,5 +1,7 @@
 # ts-plugin-webstorm-repro
 
+YouTrack issue: https://youtrack.jetbrains.com/issue/WEB-67884/getSupportedCodeFixes-is-called-before-TS-plugins-are-registered
+
 ## Setup
 
 - node_modules have been commited for simplicity
