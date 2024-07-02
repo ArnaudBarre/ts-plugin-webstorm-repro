@@ -1,4 +1,6 @@
 {
+  "name": "ts-plugin-webstorm-repro",
+  "private": true,
   "dependencies": {
     "typescript": "^5.5.3"
   }
